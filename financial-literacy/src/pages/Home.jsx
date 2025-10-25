@@ -58,6 +58,7 @@ const Home = () => {
         <Link style={styles.navLink} to="/expenses">Expenses</Link>
         <Link style={styles.navLink} to="/goals">Goals</Link>
         <Link style={styles.navLink} to="/articles">Articles</Link>
+        <Link style={styles.navLink} to="/">Logout</Link>
       </nav>
 
       <h1 style={{ marginTop: 80 }}>Dashboard</h1>
